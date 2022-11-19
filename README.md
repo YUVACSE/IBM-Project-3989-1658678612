@@ -26,3 +26,11 @@ To develop an end-to-end web application capable of displaying the current job o
 
 ## Technical Architecture :
 ![Technical architecture diagram](https://lh3.googleusercontent.com/1OWTBsvpOXh0YVOalvRAGG8uDOBJea7NpyXg5hSSHb61IRRFHTY8txceIQfcIsc9b9coajOEraPoPIAVr5SOr0WFF0iQKVHnHOXk-wAn6XwNjuZFSsdGwreGV7Y10Q)
+
+## output link :
+
+[app]( http://169.51.207.195:32478/ )
+
+##video report :
+
+[here](https://drive.google.com/file/d/1Ee6ONWmSBsjx0faalrT_fIo7SnaJMS1G/view?usp=share_link)
