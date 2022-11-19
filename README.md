@@ -32,7 +32,6 @@ To develop an end-to-end web application capable of displaying the current job o
 [App Link]( http://169.51.207.195:32478/ )
 
 ## video report :
+attached in project report
 
-[HERE ](https://drive.google.com/file/d/1Ee6ONWmSBsjx0faalrT_fIo7SnaJMS1G/view?usp=share_link)
-
-##                                                              Thank You
+                                                           Thank You
